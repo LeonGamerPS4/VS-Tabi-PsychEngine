@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "Tabi Lines",
+	"position": [
+		150,
+		211
+	],
+	"scale": 0.45,
+	"image": "Tabi_lines"
+}

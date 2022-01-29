@@ -1,0 +1,30 @@
+{
+	"storyName": "final battle",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tabicurse",
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"retrogenocide",
+			"tabimad",
+			[
+				55,
+				15,
+				0
+			]
+		]
+	],
+	"weekName": "TABI FINALE"
+}

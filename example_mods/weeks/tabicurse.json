@@ -1,0 +1,49 @@
+{
+	"storyName": "Curse",
+	"difficulties": "Easy, Normal, Hard, Curse",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"lines",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"My Battle",
+			"tabinormal",
+			[
+				235,
+				175,
+				100
+			]
+		],
+		[
+			"Last Chance",
+			"tabinormal",
+			[
+				235,
+				175,
+				100
+			]
+		],
+		[
+			"Genocide",
+			"tabimad",
+			[
+				55,
+				15,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Curse"
+}

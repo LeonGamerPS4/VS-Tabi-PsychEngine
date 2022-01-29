@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				179,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MadTabiDown"
+		},
+		{
+			"offsets": [
+				229,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MadTabiUp"
+		},
+		{
+			"offsets": [
+				200,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MadTabiIdle"
+		},
+		{
+			"offsets": [
+				200,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "MadTabiIdle"
+		},
+		{
+			"offsets": [
+				331,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MadTabiLeft"
+		},
+		{
+			"offsets": [
+				331,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "MadTabiLeft"
+		},
+		{
+			"offsets": [
+				200,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MadTabiRight"
+		},
+		{
+			"offsets": [
+				229,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "MadTabiUp"
+		},
+		{
+			"offsets": [
+				200,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "MadTabiRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MADTABI",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tabimad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		161,
+		93
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
