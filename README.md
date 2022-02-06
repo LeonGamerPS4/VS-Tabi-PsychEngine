@@ -5,7 +5,7 @@ this mod was originally created completely in lua, but now some parts have to us
 
 vs tabi created by homskiy
 # Psych Engine
-(THIS IS TO COMPILE SOURCE CODE, PLEASE INSTALL BASE GAME FROM [GAMEBANANA](https://gamebanana.com/mods/335142) IF YOU DO NOT WANT TO EDIT THE SOURCE)
+(THIS IS TO COMPILE SOURCE CODE, PLEASE INSTALL BASE GAME FROM [GAMEBANANA](https://gamebanana.com/mods/335142) IF YOU WANT TO PLAY THE GAME NORMALLY)
 
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
 
